@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KizukiH
+- 👋 Hi, I’m Kizuki
 - 🌱 I’m currently learning create games
 
 <!---
